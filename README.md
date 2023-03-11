@@ -1,4 +1,4 @@
-# MesoOn
+
 Online learning platform builded with Django
 
 ## Setup
